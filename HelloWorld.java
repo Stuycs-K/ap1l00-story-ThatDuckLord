@@ -1,4 +1,4 @@
-public class HelloWOrld{
+public class HelloW0rld{
 
 	public static boolean isPrime(int x){
 	int countdown = 2;
